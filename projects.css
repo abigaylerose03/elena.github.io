@@ -1,0 +1,99 @@
+body { background-color: #ccffff; }
+
+.homeNav {
+	z-index: 1;
+	position: fixed;
+	
+	background-color: #ffe6ff;
+	width: 1555px;
+	height: 40px;
+	opacity: 0.7;
+	
+}
+
+.homeNav p {
+	position: absolute;
+	color: black;
+	font-family: 'Indie Flower', cursive;
+	font-weight: 500px;
+}
+
+#artJacket img {
+	width: 270px;
+	height: 400px;
+	border: 2px solid white;
+}
+
+#artJacket p {
+	position: absolute;
+	right: 310px;
+	top: 67px;
+	
+	color: black;
+	font-family: 'Indie Flower', cursive;
+	font-size: 25px;
+	font-weight: 600;
+	text-wrap: lowercase;
+}
+
+#bbScientists img {
+	float: right;
+	width: 500px;
+	height: 530px;
+	border: 2px solid white;
+}
+
+#bbScientists p {
+	position: absolute;
+	right: 515px;
+	top: 600px;
+	
+	color: black;
+	font-family: 'Indie Flower', cursive;
+	font-weight: 600;
+	text-wrap: lowercase;
+}
+
+#bbSelfie img {
+	position: relative;
+	top: 320px;
+	float: left;
+	border: 2px solid white;
+	
+	width: 400px;
+	height: 410px;
+}
+
+#bbSelfie p {
+	position: absolute;
+	left: 415px;
+	top: 830px;
+	
+	color: black;
+	font-family: 'Indie Flower', cursive;
+	font-weight: 600;
+	text-wrap: lowercase;
+}
+
+#trip img {
+	position: relative;
+	top: 750px;
+	left: 510px;
+	
+	width: 500px;
+	height: 530px;
+	border: 2px solid white;
+}
+
+#trip p {
+	position: relative;
+	right: 5px;
+	top: 1200px;
+	
+	color: black;
+	font-family: 'Indie Flower', cursive;
+	font-size: 25px;
+	font-weight: 600;
+	text-wrap: lowercase;
+	
+}
